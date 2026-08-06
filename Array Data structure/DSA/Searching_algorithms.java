@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Searching_algorithms {
+public class Searching_algorithms{
     //Linear searching
 public static void main(String args[]){
         boolean found=false;
