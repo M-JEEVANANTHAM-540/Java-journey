@@ -25,4 +25,4 @@ public class Two_sum {
                 left++;}
             else if(sum>target){right--; }}
         if(!found){
-            System.out.println("The entered sum is not found in the entered array"); } }}
+            System.out.println("The entered sum is not found in the entered array"); } sc.close();}}
