@@ -2,9 +2,10 @@
 
 public class Moving_zeroes_to_end {
     public static void main(String args[]){
-        int arr[]={0,0,0,1,2};
+       
         int left=0;
-        int right=0;
+        int right=1;
+         int arr[]={0,0,0,1,2};
         while (right<arr.length){
             if (arr[right]!=0){
                 arr[left]=arr[right];

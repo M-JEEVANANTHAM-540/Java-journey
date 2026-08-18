@@ -1,5 +1,5 @@
 //Find the maximum element in a array
-public class Max_element_in_array{
+public class max_element_in_array{
     public static void main(String args[]){
         int array[]={5,4,8,6,3,8};
         int max=array[0];
